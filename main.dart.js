@@ -64070,7 +64070,7 @@ r=A.bt(a,A.bH(A.a([a0,A.bH(A.a([a3,B.MW,A.hO(A.iG(a,A.bt(a,A.bB("Login",a,a,a,a,
 a2=t.i
 s=A.ly(A.bB("Create your restaurant website",a,a,a,a,A.dj(a,a,B.k,a,a,a,a,a,a,a,a,A.aP(a5,60,B.HS,a2).a,a,B.J,a,A.aP(a5,96,B.HA,a2).a,!0,a,a,a,a,a,a,a,a),B.cC,a),B.Hk)
 a3=A.bB("We help you to create  world-class site  for your restaurant according to your need and demand our designer developer and our marketing",a,a,a,a,A.dj(a,a,B.k,a,a,a,a,a,a,a,a,A.aP(a5,24,B.HK,a2).a,a,B.q,a,A.aP(a5,1.4166666666666667,B.GU,a2).a,!0,a,a,a,a,a,a,a,a),B.cC,a)
-a0=A.hO(A.iG(a,A.bt(a,B.Sm,a,a,new A.d3(B.k,a,a,A.et(60),a,a,B.a4),62,B.Et,B.ED,a),B.af,!1,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a),B.bz,a,a,a)
+a0=A.hO(A.iG(a,A.bt(a,B.Sl,a,a,new A.d3(B.k,a,a,A.et(60),a,a,B.a4),62,B.Et,B.ED,a),B.af,!1,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a),B.bz,a,a,a)
 p=A.aP(a5,1035,B.GP,a2).a
 p=A.bt(a,A.bn(A.a([r,s,B.N8,new A.cM(B.mP,a3,a),a0,B.KX,A.du(new A.ev(new A.a7W(),a),A.aP(a5,414,B.GQ,a2).a,p)],q),B.y,B.o,B.l),B.fe,a,a,a,a,a,a)
 a0=A.du(a,A.aP(a5,50,B.Gq,a2).a,a)
@@ -64137,9 +64137,9 @@ if(q==null)q=721
 s=t.p
 return A.bt(r,A.bn(A.a([B.St,B.dt,A.bH(A.a([A.bH(A.a([A.adH(A.et(100),A.fZ("assets/images/profile.png",r,52,52)),B.eF,A.bn(B.Gx,B.B,B.o,B.l)],s),B.y,B.o,B.l),A.bH(A.a([B.Sd,B.eF,A.lP("assets/icons/upward_arrow.svg")],s),B.y,B.o,B.l)],s),B.y,B.al,B.l)],s),B.y,B.o,B.l),r,new A.a9(419,q,0,1/0),r,r,r,r,r)},
 x4(){var s=null
-return A.ly(A.bn(A.a([A.fZ("assets/images/lattice.png",s,28,152),B.eG,A.bt(s,B.Sj,s,s,B.x2,46.94,s,B.Es,s)],t.p),B.B,B.o,B.l),B.HY)},
+return A.ly(A.bn(A.a([A.fZ("assets/images/lattice.png",s,28,152),B.eG,A.bt(s,B.Si,s,s,B.x2,46.94,s,B.Es,s)],t.p),B.B,B.o,B.l),B.HY)},
 Ic(a){var s=null,r=A.aP(a,434,B.HH,t.i).a
-return A.bt(s,B.Sh,s,new A.a9(0,r==null?0:r,0,1/0),s,s,s,s,s)},
+return A.bt(s,B.Sq,s,new A.a9(0,r==null?0:r,0,1/0),s,s,s,s,s)},
 Ib(a){var s=null,r=t.R,q=t.i
 return A.ly(A.bB("Why hyteno for your restaurant then other web builder",s,s,s,s,A.dj(s,s,s,s,s,s,s,s,s,s,s,A.aP(a,48,A.a([B.cc],r),q).a,s,B.J,s,A.aP(a,1.2102083333333333,A.a([B.fj],r),q).a,!0,s,s,s,s,s,s,s,s),s,s),B.He)},
 xT(){var s,r,q,p,o=null,n=J.FG(5,t.l7)
@@ -64153,18 +64153,18 @@ s=t.p
 r=A.bH(A.a([A.fZ("assets/images/rectangle.png",o,42,45),B.MU,B.Sg],s),B.y,B.o,B.l)
 q=t.i
 p=A.aP(a,461.25,B.Ha,q).a
-return A.bn(A.a([r,B.va,A.bt(o,B.Sk,o,new A.a9(0,p==null?100:p,0,1/0),o,o,o,o,o),A.du(o,A.aP(a,57,A.a([B.Cw],t.R),q).a,o),A.bH(A.a([A.lP("assets/icons/instagram.svg"),B.v8,A.lP("assets/icons/facebook.svg"),B.v8,A.lP("assets/icons/twitter.svg")],s),B.y,B.o,B.l)],s),B.B,B.o,B.l)},
+return A.bn(A.a([r,B.va,A.bt(o,B.Sj,o,new A.a9(0,p==null?100:p,0,1/0),o,o,o,o,o),A.du(o,A.aP(a,57,A.a([B.Cw],t.R),q).a,o),A.bH(A.a([A.lP("assets/icons/instagram.svg"),B.v8,A.lP("assets/icons/facebook.svg"),B.v8,A.lP("assets/icons/twitter.svg")],s),B.y,B.o,B.l)],s),B.B,B.o,B.l)},
 Hb(a){var s=null
 return A.hO(A.iG(s,A.bt(s,B.y9,s,s,new A.d3(B.fe,s,s,A.et(204),s,s,B.a4),s,s,B.EE,s),B.af,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s),B.bz,s,s,s)},
 FT(a){return A.ly(A.bH(A.a([this.FQ(a),this.FR(a),this.FS(a)],t.p),B.B,B.al,B.l),B.Ga)},
 FS(a){var s=null
-return A.bn(A.a([B.Si,B.eG,A.bB("Account",s,s,s,s,a,s,s),B.aL,A.bB("Support Center",s,s,s,s,a,s,s),B.aL,A.bB("Feedback",s,s,s,s,a,s,s),B.aL,A.bB("Contact Us",s,s,s,s,a,s,s),B.aL,A.bB("Accessibility",s,s,s,s,a,s,s)],t.p),B.B,B.o,B.l)},
+return A.bn(A.a([B.Sh,B.eG,A.bB("Account",s,s,s,s,a,s,s),B.aL,A.bB("Support Center",s,s,s,s,a,s,s),B.aL,A.bB("Feedback",s,s,s,s,a,s,s),B.aL,A.bB("Contact Us",s,s,s,s,a,s,s),B.aL,A.bB("Accessibility",s,s,s,s,a,s,s)],t.p),B.B,B.o,B.l)},
 FR(a){var s=null
 return A.bn(A.a([B.Su,B.eG,A.bB("Why Hyteno",s,s,s,s,a,s,s),B.aL,A.bB("Partner With Us",s,s,s,s,a,s,s),B.aL,A.bB("FAQ",s,s,s,s,a,s,s),B.aL,A.bB("Blog",s,s,s,s,a,s,s)],t.p),B.B,B.o,B.l)},
 FQ(a){var s=null
 return A.bn(A.a([B.Se,B.eG,A.bB("About Us",s,s,s,s,a,s,s),B.aL,A.bB("Features",s,s,s,s,a,s,s),B.aL,A.bB("News",s,s,s,s,a,s,s),B.aL,A.bB("Menu",s,s,s,s,a,s,s),B.aL],t.p),B.B,B.o,B.l)},
 Fr(a){var s=null,r=A.aP(a,0,B.Hh,t.i).a
-return A.bt(s,B.So,s,new A.a9(300,r==null?0:r,0,1/0),s,s,s,s,s)},
+return A.bt(s,B.Sn,s,new A.a9(300,r==null?0:r,0,1/0),s,s,s,s,s)},
 x6(a){var s=null,r=t.R,q=t.i
 return A.ly(A.bn(A.a([A.bB("How to create a free website",s,s,s,s,A.dj(s,s,s,s,s,s,s,s,s,s,s,A.aP(a,64,A.a([B.dT],r),q).a,s,B.J,s,A.aP(a,1.09375,A.a([B.fh],r),q).a,!0,s,s,s,s,s,s,s,s),s,s),B.N4,B.Sb],t.p),B.B,B.o,B.l),B.GD)},
 Dz(a){var s=t.i,r=A.aP(a,44.55,B.Gv,s).a
@@ -64221,7 +64221,7 @@ else return A.bH(B.HZ,B.B,B.o,B.l)},
 $S:18}
 A.a7Y.prototype={
 $2(a,b){var s,r=null,q=t.p
-if(b.b<=800)return A.bn(A.a([B.Sn,B.va,A.bn(A.a([B.vF,B.kJ,A.bH(A.a([A.bt(r,B.Sw,r,r,new A.d3(B.Au,r,r,A.et(84),r,r,B.a4),r,r,B.mO,r),B.v6,A.bt(r,B.Sv,r,r,new A.d3(B.An,r,r,A.et(84),r,r,B.a4),r,r,B.mO,r)],q),B.y,B.o,B.l)],q),B.y,B.o,B.l)],q),B.y,B.al,B.l)
+if(b.b<=800)return A.bn(A.a([B.Sm,B.va,A.bn(A.a([B.vF,B.kJ,A.bH(A.a([A.bt(r,B.Sw,r,r,new A.d3(B.Au,r,r,A.et(84),r,r,B.a4),r,r,B.mO,r),B.v6,A.bt(r,B.Sv,r,r,new A.d3(B.An,r,r,A.et(84),r,r,B.a4),r,r,B.mO,r)],q),B.y,B.o,B.l)],q),B.y,B.o,B.l)],q),B.y,B.al,B.l)
 else{s=t.i
 return A.bH(A.a([A.ly(A.bB("Website templates you like the most",r,r,r,r,A.dj(r,r,B.k,r,r,r,r,r,r,r,r,A.aP(a,48,B.Gm,s).a,r,B.J,r,A.aP(a,64,B.H9,s).a,!0,r,r,r,r,r,r,r,r),r,r),B.HO),A.ly(A.bn(A.a([B.vF,B.kJ,A.bH(A.a([new A.fW(new A.l(4282602495),"Get Started",r),B.v6,new A.fW(A.pk(255,255,255,0.11),"Contact Us",r)],q),B.y,B.o,B.l)],q),B.y,B.o,B.l),B.GS)],q),B.B,B.al,B.l)}},
 $S:18}
@@ -68573,10 +68573,10 @@ B.FN=A.a(s([B.xg,B.uL]),A.R("n<aU>"))
 B.FO=A.a(s(["*::class","*::dir","*::draggable","*::hidden","*::id","*::inert","*::itemprop","*::itemref","*::itemscope","*::lang","*::spellcheck","*::title","*::translate","A::accesskey","A::coords","A::hreflang","A::name","A::shape","A::tabindex","A::target","A::type","AREA::accesskey","AREA::alt","AREA::coords","AREA::nohref","AREA::shape","AREA::tabindex","AREA::target","AUDIO::controls","AUDIO::loop","AUDIO::mediagroup","AUDIO::muted","AUDIO::preload","BDO::dir","BODY::alink","BODY::bgcolor","BODY::link","BODY::text","BODY::vlink","BR::clear","BUTTON::accesskey","BUTTON::disabled","BUTTON::name","BUTTON::tabindex","BUTTON::type","BUTTON::value","CANVAS::height","CANVAS::width","CAPTION::align","COL::align","COL::char","COL::charoff","COL::span","COL::valign","COL::width","COLGROUP::align","COLGROUP::char","COLGROUP::charoff","COLGROUP::span","COLGROUP::valign","COLGROUP::width","COMMAND::checked","COMMAND::command","COMMAND::disabled","COMMAND::label","COMMAND::radiogroup","COMMAND::type","DATA::value","DEL::datetime","DETAILS::open","DIR::compact","DIV::align","DL::compact","FIELDSET::disabled","FONT::color","FONT::face","FONT::size","FORM::accept","FORM::autocomplete","FORM::enctype","FORM::method","FORM::name","FORM::novalidate","FORM::target","FRAME::name","H1::align","H2::align","H3::align","H4::align","H5::align","H6::align","HR::align","HR::noshade","HR::size","HR::width","HTML::version","IFRAME::align","IFRAME::frameborder","IFRAME::height","IFRAME::marginheight","IFRAME::marginwidth","IFRAME::width","IMG::align","IMG::alt","IMG::border","IMG::height","IMG::hspace","IMG::ismap","IMG::name","IMG::usemap","IMG::vspace","IMG::width","INPUT::accept","INPUT::accesskey","INPUT::align","INPUT::alt","INPUT::autocomplete","INPUT::autofocus","INPUT::checked","INPUT::disabled","INPUT::inputmode","INPUT::ismap","INPUT::list","INPUT::max","INPUT::maxlength","INPUT::min","INPUT::multiple","INPUT::name","INPUT::placeholder","INPUT::readonly","INPUT::required","INPUT::size","INPUT::step","INPUT::tabindex","INPUT::type","INPUT::usemap","INPUT::value","INS::datetime","KEYGEN::disabled","KEYGEN::keytype","KEYGEN::name","LABEL::accesskey","LABEL::for","LEGEND::accesskey","LEGEND::align","LI::type","LI::value","LINK::sizes","MAP::name","MENU::compact","MENU::label","MENU::type","METER::high","METER::low","METER::max","METER::min","METER::value","OBJECT::typemustmatch","OL::compact","OL::reversed","OL::start","OL::type","OPTGROUP::disabled","OPTGROUP::label","OPTION::disabled","OPTION::label","OPTION::selected","OPTION::value","OUTPUT::for","OUTPUT::name","P::align","PRE::width","PROGRESS::max","PROGRESS::min","PROGRESS::value","SELECT::autocomplete","SELECT::disabled","SELECT::multiple","SELECT::name","SELECT::required","SELECT::size","SELECT::tabindex","SOURCE::type","TABLE::align","TABLE::bgcolor","TABLE::border","TABLE::cellpadding","TABLE::cellspacing","TABLE::frame","TABLE::rules","TABLE::summary","TABLE::width","TBODY::align","TBODY::char","TBODY::charoff","TBODY::valign","TD::abbr","TD::align","TD::axis","TD::bgcolor","TD::char","TD::charoff","TD::colspan","TD::headers","TD::height","TD::nowrap","TD::rowspan","TD::scope","TD::valign","TD::width","TEXTAREA::accesskey","TEXTAREA::autocomplete","TEXTAREA::cols","TEXTAREA::disabled","TEXTAREA::inputmode","TEXTAREA::name","TEXTAREA::placeholder","TEXTAREA::readonly","TEXTAREA::required","TEXTAREA::rows","TEXTAREA::tabindex","TEXTAREA::wrap","TFOOT::align","TFOOT::char","TFOOT::charoff","TFOOT::valign","TH::abbr","TH::align","TH::axis","TH::bgcolor","TH::char","TH::charoff","TH::colspan","TH::headers","TH::height","TH::nowrap","TH::rowspan","TH::scope","TH::valign","TH::width","THEAD::align","THEAD::char","THEAD::charoff","THEAD::valign","TR::align","TR::bgcolor","TR::char","TR::charoff","TR::valign","TRACK::default","TRACK::kind","TRACK::label","TRACK::srclang","UL::compact","UL::type","VIDEO::controls","VIDEO::height","VIDEO::loop","VIDEO::mediagroup","VIDEO::muted","VIDEO::preload","VIDEO::width"]),t.s)
 B.Ay=new A.l(4283058792)
 B.Qa=new A.p(!0,B.Ay,null,null,null,null,15,B.bN,null,null,null,null,1.4666666666666666,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Sq=new A.bW("Karen Yue",null,B.Qa,null,null,null,null,null,null,null)
+B.Sp=new A.bW("Karen Yue",null,B.Qa,null,null,null,null,null,null,null)
 B.Pv=new A.p(!0,null,null,null,null,null,16,B.q,null,null,null,null,1.375,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Sr=new A.bW("Owner of Kathmandu Restaurant",null,B.Pv,null,null,null,null,null,null,null)
-B.nc=A.a(s([B.Sq,B.Sr]),t.p)
+B.nc=A.a(s([B.Sp,B.Sr]),t.p)
 B.CL=new A.N(null,"MOBILE",B.u,20,null,t.F)
 B.FR=A.a(s([B.CL]),t.R)
 B.CM=new A.N(null,"MOBILE",B.u,50,null,t.F)
@@ -68619,10 +68619,10 @@ B.CN=new A.N(null,"MOBILE",B.u,0,null,t.F)
 B.Gv=A.a(s([B.CJ,B.Dw,B.Dh,B.CN]),t.R)
 B.Gw=A.a(s([-1,0,0,1,0,0,-1,0,1,0,0,0,-1,1,0,1,1,1,1,0]),t.n)
 B.R7=new A.p(!0,null,null,null,null,null,16,B.J,null,null,null,null,1.4,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Sp=new A.bW("Alex Kracov",null,B.R7,null,null,null,null,null,null,null)
+B.So=new A.bW("Alex Kracov",null,B.R7,null,null,null,null,null,null,null)
 B.R8=new A.p(!0,null,null,null,null,null,16,B.q,null,null,null,null,1.4,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Sf=new A.bW("VP of Marketing, Lattice",null,B.R8,null,null,null,null,null,null,null)
-B.Gx=A.a(s([B.Sp,B.Sf]),t.p)
+B.Gx=A.a(s([B.So,B.Sf]),t.p)
 B.ej=A.a(s([0,0,65490,45055,65535,34815,65534,18431]),t.t)
 B.Gy=A.a(s(["pointerdown","pointermove","pointerup","pointercancel","touchstart","touchend","touchmove","touchcancel","mousedown","mousemove","mouseup","keyup","keydown"]),t.s)
 B.dm=new A.lx(0,"RESIZE")
@@ -69970,8 +69970,8 @@ B.eA=new A.xb(1,"landscape")
 B.KV=new A.xc(null)
 B.Eu=new A.aq(0,46,0,46)
 B.vB=new A.p(!0,null,null,null,null,null,20,B.q,null,null,null,null,1.6,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Sl=new A.bW("Keep track or your orders  in your mobile phone. Which help you manage your business from your phone. when ever you go anywhere anytime",null,B.vB,null,null,null,null,null,null,null)
-B.KW=new A.cM(B.Eu,B.Sl,null)
+B.Sk=new A.bW("Keep track or your orders  in your mobile phone. Which help you manage your business from your phone. when ever you go anywhere anytime",null,B.vB,null,null,null,null,null,null,null)
+B.KW=new A.cM(B.Eu,B.Sk,null)
 B.En=new A.aq(0,0,0,18)
 B.Os=new A.p(!0,B.k,null,null,null,null,14,B.q,null,null,null,null,1.5,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Sc=new A.bW("No credit card required.",null,B.Os,null,null,null,null,null,null,null)
@@ -70525,22 +70525,22 @@ B.l3=new A.p(!0,B.k,null,null,null,null,19,B.aU,null,null,null,null,null,null,nu
 B.Se=new A.bW("About",null,B.l3,null,null,null,null,null,null,null)
 B.Ry=new A.p(!0,B.k,null,null,null,null,23,B.aU,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Sg=new A.bW("Hyteno",null,B.Ry,null,null,null,null,null,null,null)
-B.Ps=new A.p(!0,null,null,null,null,null,19,B.q,null,null,null,null,1.6842105263157894,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Sh=new A.bW("This  platform user-friendly and easy to navigate, platform offer a wide range of templates, themes, and design tools to help you create a unique and professional-looking website. This platform allow you to create a site that looks good on different devices, including desktop computers, tablets, and smartphones.\n Also  include tools and features to help you optimize your site for search engines, provides Free reservation, take away and also delivery if you want",null,B.Ps,null,null,null,null,null,null,null)
-B.Si=new A.bW("Support",null,B.l3,null,null,null,null,null,null,null)
-B.Sj=new A.bW("280% increase in organic traffic",null,null,null,null,null,null,null,null,null)
+B.Sh=new A.bW("Support",null,B.l3,null,null,null,null,null,null,null)
+B.Si=new A.bW("280% increase in organic traffic",null,null,null,null,null,null,null,null,null)
 B.RS=new A.p(!0,B.k,null,null,null,null,14,B.J,null,null,null,null,1.9285714285714286,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Sk=new A.bW("Hyteno  technology company that connects people to local restaurants around them, allowing them to not only reserve tables, but also order food and reserve tables. them to not only reserve tables, but also order food and reserve tables.",null,B.RS,null,null,null,null,null,null,null)
+B.Sj=new A.bW("Hyteno  technology company that connects people to local restaurants around them, allowing them to not only reserve tables, but also order food and reserve tables. them to not only reserve tables, but also order food and reserve tables.",null,B.RS,null,null,null,null,null,null,null)
 B.QN=new A.p(!0,B.fe,null,null,null,null,16,B.bN,null,null,null,null,1.75,null,null,null,null,null,null,null,null,null,null,null,null)
 B.vE=new A.bW("Customer story",null,B.QN,null,null,null,null,null,null,null)
 B.RD=new A.p(!0,B.k,null,null,null,null,19,B.q,null,null,null,null,1.7894736842105263,null,null,null,null,null,null,null,null,null,null,null,null)
 B.vF=new A.bW(u.E,null,B.RD,null,null,null,null,null,null,null)
 B.P5=new A.p(!0,B.p,null,null,null,null,23,B.q,null,null,null,null,1.4608695652173913,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Sm=new A.bW("Get Started",null,B.P5,null,null,null,null,null,null,null)
+B.Sl=new A.bW("Get Started",null,B.P5,null,null,null,null,null,null,null)
 B.Q1=new A.p(!0,B.k,null,null,null,null,40,B.J,null,null,null,null,1.2,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Sn=new A.bW("Website templates you like the most",null,B.Q1,null,null,null,null,null,null,null)
+B.Sm=new A.bW("Website templates you like the most",null,B.Q1,null,null,null,null,null,null,null)
 B.Ox=new A.p(!0,B.k,null,null,null,null,42,B.J,null,null,null,null,1.5,null,null,null,null,null,null,null,null,null,null,null,null)
-B.So=new A.bW("Join Our News Letter To Get Updated",null,B.Ox,null,null,null,null,null,null,null)
+B.Sn=new A.bW("Join Our News Letter To Get Updated",null,B.Ox,null,null,null,null,null,null,null)
+B.Ps=new A.p(!0,null,null,null,null,null,19,B.q,null,null,null,null,1.6842105263157894,null,null,null,null,null,null,null,null,null,null,null,null)
+B.Sq=new A.bW("This  platform user-friendly and easy to navigate, platform offer a wide range of templates, themes, and design tools to help you create a unique and professional-looking website. This platform allow you to create a site that looks good on different devices, including desktop computers, tablets, and smartphones.\n \u2028Also  include tools and features to help you optimize your site for search engines, provides Free reservation, take away and also delivery if you want",null,B.Ps,null,null,null,null,null,null,null)
 B.Ss=new A.bW("Register",null,B.vA,null,null,null,null,null,null,null)
 B.PO=new A.p(!0,null,null,null,null,null,28.8,B.q,null,null,null,null,1.4,null,null,null,null,null,null,null,null,null,null,null,null)
 B.St=new A.bW('"The speed at which we can create marketing campaigns and web pages is important for our business. It helps us appear larger and increases the number of opportunities we have to connect with customers. Hyteno allows us to achieve this efficiently."',null,B.PO,null,null,null,null,null,null,null)
