@@ -34,12 +34,24 @@
 
   <script>
     // The value below is injected by flutter build, do not touch.
-    var serviceWorkerVersion = '2382780826';
+    var serviceWorkerVersion = '4137030591';
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
+  <style>
+    .Container {
+width: 100vw;
+height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+    }
+  </style>
 </head>
 <body>
+  <div id="loading_indicator" class="Container">
+    <img class="indicator" src="./assets/images//loading.gif" alt="">
+  </div>
   <script>
     window.addEventListener('load', function(ev) {
       // Download main.dart.js
